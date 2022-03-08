@@ -6,10 +6,10 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip",
+            "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win64.zip"
         },
         "32bit": {
-            "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win32.zip",
+            "url": "https://github.com/neovim/neovim/releases/download/nightly/nvim-win32.zip"
         }
     },
     "suggest": {
