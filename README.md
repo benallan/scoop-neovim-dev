@@ -1,11 +1,13 @@
 # scoop-neovim-dev
 
+Forked to handle a possible change in the directory structure inside the windows release zip.
+
 ```
-C:\Users\wsdjeg>scoop bucket add neovim-dev https://github.com/wsdjeg/scoop-neovim-dev.git
+> scoop bucket add neovim-dev https://github.com/benallan/scoop-neovim-dev
 Checking repo... ok
 The neovim-dev bucket was added successfully.
 
-C:\Users\wsdjeg>scoop-neovim-dev>scoop search neovim
+> scoop search neovim
 'main' bucket:
     neovim (0.3.8)
 
